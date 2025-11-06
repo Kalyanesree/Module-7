@@ -18,15 +18,16 @@ To write a Python program to demonstrate **Head Recursion** by finding and print
 ## PROGRAM:
 ```
 def fun(n):
-    if n > 0:
-        fun(n - 2)
-        print(n, end=' ')
-
-num = int(input("Enter a number: "))
+    if n == 0:
+        return
+    fun(n - 2)
+    print(n, end=' ')
+num = int(input())
 if num % 2 != 0:
-    num += 1
-
+    num -= 1
+print()
 fun(num)
+
 ```
 
 ## OUTPUT
