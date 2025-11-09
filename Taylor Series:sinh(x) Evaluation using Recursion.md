@@ -1,4 +1,4 @@
-# EX 7(E) Taylor Series:sinh(x) Evaluation using Recursion in Python
+# EX 7 (E) Taylor Series:sinh(x) Evaluation using Recursion in Python
 
 ## AIM:
 To write a Python program to evaluate the value of **sinh(x)** for **n terms** using recursion.
