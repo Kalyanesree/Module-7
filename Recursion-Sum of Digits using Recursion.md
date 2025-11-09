@@ -4,7 +4,6 @@
 To write a Python program to calculate the **sum of all digits** in a number using **recursion**.
 
 ## ALGORITHM:
-
 1. **Start**
 2. Define a recursive function `sum_digit(n)` that:
    - Returns 0 if `n <= 0` (Base Case)
