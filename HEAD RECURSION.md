@@ -29,7 +29,6 @@ print()
 fun(num)
 
 ```
-
 ## OUTPUT
 <img width="809" height="210" alt="image" src="https://github.com/user-attachments/assets/18ae3082-8e28-4b45-a29c-6982eb511608" />
 
